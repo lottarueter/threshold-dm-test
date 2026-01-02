@@ -44,6 +44,6 @@ Ensure you have R installed (version 4.0 or higher).
 ## 📊 Data Availability
 
 The code and data-processing pipelines are fully documented and publicly available.
-However, the empirical application in Chapter 3 relies on **proprietary sovereign CDS data**,
+However, the empirical application relies on **proprietary sovereign CDS data**,
 which cannot be shared. As a result, the scripts can be inspected and adapted freely, but
 full replication of the empirical results requires access to the underlying data.
