@@ -1,8 +1,8 @@
-# threshold-dm-test
+e# threshold-dm-test
 
 **Code for the project “Comparing Forecast Performance on Large Panel Data with Unknown Clustering Structure”**
 
-This repository contains the R code developed for a research project that compares forecast performance in large panel datasets where the clustering structure is unknown. It includes data preparation, model fitting, statistical testing and visualisation scripts.
+This repository contains the R code developed for the empirical analysis of a project that compares forecast performance in large panel datasets where the clustering structure is unknown. It includes data preparation, model fitting, statistical testing and visualisation scripts.
 
 ---
 
@@ -11,8 +11,8 @@ This repository contains the R code developed for a research project that compar
 The repository currently includes:
 
 - Data preparation scripts (`CDS_data_prep.R`, `expl_variables_prep.R`)  
-- Model stimation script (`model_fits.R`)
-- Scripts for Diebold-Mariano test with thresholded covariance matrix scripts (`hac_hard_threshold_sigma.R`, `test.R`)  
+- Model estimation script (`model_fits.R`)
+- Scripts for the Diebold-Mariano test with thresholded covariance matrix (`hac_hard_threshold_sigma.R`, `test.R`)  
 - Descriptive statistics of the data (`summary_statistics.R`)  
 - Visualisation scripts (`visualisations.R`)  
 
