@@ -1,7 +1,4 @@
-# threshold-dm-test
-
-**Code for Chapter 3 of the dissertation  
-“Associations and Predictions in Challenging Panel Data Settings”**
+# **Code for the project “Associations and Predictions in Challenging Panel Data Settings”**
 
 This repository contains the R code used for the empirical analysis in **Chapter 3
 (“Comparing Forecast Performance on Large Panel Data with Unknown Clustering Structure”)**
