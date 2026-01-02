@@ -18,16 +18,11 @@ designed to remain valid under heterogeneity, serial correlation and unknown clu
 
 The repository currently includes:
 
-- Data preparation scripts  
-  (`CDS_data_prep.R`, `expl_variables_prep.R`)
-- Model estimation script  
-  (`model_fits.R`)
-- Implementation of the Diebold–Mariano test with thresholded covariance matrix  
-  (`hac_hard_threshold_sigma.R`, `test.R`)
-- Descriptive statistics of the data  
-  (`summary_statistics.R`)
-- Visualisation scripts  
-  (`visualisations.R`)
+- Data preparation scripts (`CDS_data_prep.R`, `expl_variables_prep.R`)
+- Model estimation script (`model_fits.R`)
+- Implementation of the Diebold–Mariano test with thresholded covariance matrix (`hac_hard_threshold_sigma.R`, `test.R`)
+- Descriptive statistics of the data (`summary_statistics.R`)
+- Visualisation scripts (`visualisations.R`)
 
 Each script is designed to be run in sequence or used as part of a custom analysis pipeline.
 
