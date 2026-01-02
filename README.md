@@ -1,4 +1,4 @@
-# **Code for the project _Associations and Predictions in Challenging Panel Data Settings_**
+# **Code for the project _Comparing Forecast Performance on Large Panel Data with Unknown Clustering Structure_**
 
 This repository contains the R code used for the empirical analysis in **Chapter 3
 (“Comparing Forecast Performance on Large Panel Data with Unknown Clustering Structure”)**
